@@ -1,0 +1,37 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  background-color: #DBA39A;
+  color: #F0DBDB;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 25px 0;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 80%;
+  margin: auto;
+  gap: 30px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  background-color: #DBA39A;
+  color: #F0DBDB;
+  padding: 10px 0;
+  margin-top: 30px;
+}
